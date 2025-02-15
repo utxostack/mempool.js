@@ -1,6 +1,6 @@
 {
-  "name": "@mempool/mempool.js",
-  "version": "3.0.0",
+  "name": "@cell-studio/mempool.js",
+  "version": "3.1.0",
   "description": "NPM package module for Mempool APIs.",
   "main": "lib/index.js",
   "keywords": [
